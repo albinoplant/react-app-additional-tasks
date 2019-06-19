@@ -1,6 +1,6 @@
 it's from [this tutorial](https://reactjs.org/tutorial/tutorial.html)
 
-#I'm working on suggested improvements 
+# I'm working on suggested improvements 
 4/6 by now
 
 whole list
