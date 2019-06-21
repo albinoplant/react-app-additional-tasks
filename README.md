@@ -1,7 +1,7 @@
 it's from [this tutorial](https://reactjs.org/tutorial/tutorial.html)
 
-# I'm working on suggested improvements 
-4/6 by now
+# I was working on suggested improvements 
+6/6 DONE
 
 whole list
 
