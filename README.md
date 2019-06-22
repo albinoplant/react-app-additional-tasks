@@ -1,4 +1,4 @@
-[LIVE](https://albinoplant.github.io/react-app-additional-tasks/){:target="_blank" rel="noopener"}
+[LIVE](https://albinoplant.github.io/react-app-additional-tasks/)
 
 it's from [this tutorial](https://reactjs.org/tutorial/tutorial.html)
 
